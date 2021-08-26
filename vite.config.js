@@ -18,12 +18,12 @@ const { createVuePlugin } = require("vite-plugin-vue2");
 // https://vitejs.dev/config/
 export default defineConfig({
     plugins: [createVuePlugin()],
-    define: {
-        "process.env": {},
-    },
+    // define: {
+    //     "process.env": {},
+    // },
     resolve: {
         alias: {
-            "@/": `${path.resolve(__dirname, "src")}/`,
+            "@": `${path.resolve(__dirname, "src")}/`,
         },
     },
 });
