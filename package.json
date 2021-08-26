@@ -1,26 +1,28 @@
 {
-  "name": "vue2-vite",
-  "version": "0.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
-  },
-  "dependencies": {
-    "bootstrap-sass": "^3.4.1",
-    "bootswatch": "3.4",
-    "font-awesome": "^4.7.0",
-    "formiojs": "github:formio/formio.js",
-    "sass": "1.32",
-    "vite-plugin-vue2": "^1.4.0",
-    "vue": "^2.6.12",
-    "vue-formio": "^4.0.7",
-    "vue-router": "^3.5.2",
-    "vue-template-compiler": "^2.6.14",
-    "vuex": "^3.6.2"
-  },
-  "devDependencies": {
-    "choices.js": "github:formio/choices",
-    "vite": "^2.0.5"
-  }
+    "name": "vue2-vite",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "bootswatch": "3.4",
+        "font-awesome": "^4.7.0",
+        "formiojs": "github:formio/formio.js",
+        "sass": "1.32",
+        "vue": "^2.6.12",
+        "vue-formio": "^4.0.7",
+        "vue-router": "^3.5.2",
+        "vuex": "^3.6.2",
+        "browserslist": ">=4.16.5"
+    },
+    "devDependencies": {
+        "choices.js": "github:formio/choices",
+        "vite": "^2.0.5",
+        "postcss": ">=8.2.10",
+        "vue-template-compiler": "^2.6.14",
+        "vite-plugin-vue2": "^1.4.0",
+        "bootstrap-sass": "^3.4.1"
+    }
 }
