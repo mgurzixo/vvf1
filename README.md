@@ -17,10 +17,10 @@ A simple start for using formio with vue2 and vite.
 ## Usage
 
 ```bash
-git clone ...
-cd vvf1
-pnpm install
-pnpm run dev
+  git clone ...
+  cd vvf1
+  pnpm install
+  pnpm run dev
 ```
 
 ## Notes
