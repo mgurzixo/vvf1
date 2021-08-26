@@ -1,0 +1,7 @@
+{
+    "search.exclude": {
+        "**/node_modules": false,
+        "**/node_modules/.pnpm": true,
+        "**/Xnode_modules": true
+    }
+}
