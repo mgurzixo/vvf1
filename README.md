@@ -1,6 +1,6 @@
 # vvf1
 
-A simple start for using formio with vue2 and vite.
+A simple start for using formio, vue2, vuex and vite.
 
 -   Inspired from [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter)
 
@@ -22,6 +22,10 @@ A simple start for using formio with vue2 and vite.
   pnpm install
   pnpm run dev
 ```
+
+Add a textField with the builder, then test the form,
+see how the submission data and the form persist in the store,
+and how a database update is simulated with a 2 seconds timeout
 
 ## Notes
 
