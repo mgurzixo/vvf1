@@ -9,9 +9,9 @@ A simple start for using formio, vue2, vuex and vite.
 ## Scripts
 
 ```bash
-  npm run dev # start dev server
-  npm run build # build for production
-  npm run serve # locally preview production build
+  pnpm run dev # start dev server
+  pnpm run build # build for production
+  pnpm run serve # locally preview production build
 ```
 
 ## Usage
