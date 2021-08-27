@@ -6,11 +6,9 @@
             <a href="https://vitejs.dev/guide/features.html" target="_blank"
                 >Vite Documentation</a
             >
-            |
             <a href="https://vuejs.org/v2/guide/" target="_blank"
                 >Vue 2 Documentation</a
             >
-            |
             <a
                 href="https://help.form.io/developers/introduction"
                 target="_blank"
