@@ -5,6 +5,7 @@
 </template>
 
 <script lang="ts">
+"use strict";
 import HelloWorld from "@/components/HelloWorld.vue"; // @ is an alias to /src
 
 export default {

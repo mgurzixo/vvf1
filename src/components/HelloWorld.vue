@@ -21,6 +21,7 @@
 </template>
 
 <script>
+"use strict";
 export default {
     props: {
         msg: String,

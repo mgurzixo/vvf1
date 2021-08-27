@@ -10,6 +10,7 @@
 </template>
 
 <script>
+"use strict";
 import { Form } from "vue-formio";
 import { mapState, mapGetters, mapActions } from "vuex";
 
