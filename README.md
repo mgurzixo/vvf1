@@ -17,7 +17,7 @@ A simple template using formio, vue2, vuex and vite.
 ## Usage
 
 ```bash
-  git clone (or [degit](https://github.com/Rich-Harris/degit) if you want to start a new project) this repo
+  git clone ...
   cd vvf1
   pnpm install
   pnpm run dev
@@ -29,7 +29,7 @@ and how a database update is simulated with a 2 seconds timeout
 
 ## Notes
 
--   [vue-app-starterkit](https://github.com/formio/vue-app-starterkit) is completely broken!
+-   [degit](https://github.com/Rich-Harris/degit) is recommended instead of 'git clone' if you want to start a new project
 
 -   CSS imports are tricky... cf. styles.scss
 
