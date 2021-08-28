@@ -33,6 +33,4 @@ and how a database update is simulated with a 2 seconds timeout
 
 -   CSS imports are tricky... cf. styles.scss
 
-[pnpm](https://www.npmjs.com/package/pnpm) is great!
-
--
+-   [pnpm](https://www.npmjs.com/package/pnpm) is great!
