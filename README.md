@@ -1,6 +1,6 @@
 # vvf1
 
-A simple start for using formio, vue2, vuex and vite.
+A simple template using formio, vue2, vuex and vite.
 
 -   Inspired from [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter)
 
@@ -17,9 +17,9 @@ A simple start for using formio, vue2, vuex and vite.
 ## Usage
 
 ```bash
-  git clone ...
+  git clone (or [degit](https://github.com/Rich-Harris/degit) if you want to start a new project) this repo
   cd vvf1
-  pnpm install
+  [pnpm](https://www.npmjs.com/package/pnpm) install
   pnpm run dev
 ```
 
